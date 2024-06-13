@@ -1,6 +1,8 @@
 # PROJECT PORTFOLIO - Sruthi Suresh
 
-Welcome to my GitHub Project repository, where I've methodically organized a selection of my data-related projects. These projects provide a complete overview of my undertakings, highlighting my talents and expertise in the field of data analysis.
+Welcome to my GitHub Project repository :smile:!!
+
+Here, I've methodically organized a selection of my data-related projects. These projects provide a complete overview of my undertakings, highlighting my talents and expertise in the field of data analysis.
 
 | Project Link | Description |
 |---|---|
